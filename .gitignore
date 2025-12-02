@@ -1,0 +1,14 @@
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.json
+*.cache
+node_modules/
+.env
+*.mp4
+*.mkv
+*.png
+*.jpg
+netflix-frontend/node_modules/
